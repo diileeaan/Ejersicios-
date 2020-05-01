@@ -1,3 +1,3 @@
 # Ejersicios-
 15 programas diferentes en python (Tarea)
-by Dilean Shadai and Santino Noé Ayala 
+by Santino Noé Ayala and Dilean Shadai García
